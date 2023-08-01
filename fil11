@@ -1,0 +1,3 @@
+FROM ubuntu
+RUN ap update -y
+RUN useradd
